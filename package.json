@@ -2,8 +2,11 @@
   "name": "session-5",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
-    "start": "nodemon ."
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Ahmed Mostafa",
